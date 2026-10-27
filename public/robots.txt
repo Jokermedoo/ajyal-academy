@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+
+# حدّث النطاق بعد النشر على Vercel
+Sitemap: https://ajyal-academy.vercel.app/sitemap.xml

@@ -1,0 +1,14 @@
+{
+  "name": "أكاديمية أجيال النموذجية",
+  "short_name": "أكاديمية أجيال",
+  "description": "تعليم اليوم، نجاح الغد.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#1e6fe6",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
